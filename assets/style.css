@@ -1,9 +1,18 @@
 footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: rgb(114, 165, 80);
     color: rgb(0, 0, 0);
     text-align: center;
+  }
+
+  img {
+    /* display: block;
+    max-width: 100%;
+    height: auto; */
+    background-color: bisque;
+    /* object-fit: contain; */
+
   }
