@@ -1,4 +1,4 @@
-footer {
+/* footer {
     position: relative;
     left: 0;
     bottom: 0;
@@ -6,13 +6,19 @@ footer {
     background-color: rgb(114, 165, 80);
     color: rgb(0, 0, 0);
     text-align: center;
+  } */
+
+  body {
+    /* background-color: linear-gradient(rgb(93, 177, 255), rgb(158, 231, 255)); */
+    background-color: #6eadff;
+
   }
 
-  img {
+  /* img { */
     /* display: block;
     max-width: 100%;
     height: auto; */
-    background-color: bisque;
+    /* background-color: #6eadff; */
     /* object-fit: contain; */
 
-  }
+  /* } */
