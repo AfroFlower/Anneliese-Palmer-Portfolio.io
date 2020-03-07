@@ -1,24 +1,20 @@
-/* footer {
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(114, 165, 80);
-    color: rgb(0, 0, 0);
-    text-align: center;
-  } */
-
-  body {
-    /* background-color: linear-gradient(rgb(93, 177, 255), rgb(158, 231, 255)); */
-    background-color: #6eadff;
-
+body {
+    background-image: linear-gradient(rgb(158, 231, 255), rgb(93, 177, 255));
+    /* background-color: #6eadff; */
   }
 
-  /* img { */
-    /* display: block;
-    max-width: 100%;
-    height: auto; */
-    /* background-color: #6eadff; */
-    /* object-fit: contain; */
-
-  /* } */
+  .btn {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: black;
+    padding: 12px 16px;
+    margin: 20px 0px 20px 0px;
+    /* margin-right: 20px; */
+    font-size: 35px;
+    cursor: pointer;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
