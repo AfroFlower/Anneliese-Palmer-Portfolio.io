@@ -1,2 +1,2 @@
 # My-Portfolio
-My portfolio post-graduation and beyond
+My web developer's portfolio
